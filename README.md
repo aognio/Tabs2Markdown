@@ -3,7 +3,7 @@ Tabs2Markdown
 
 A Chrome extension that exports open tabs as Markdown links grouped by domain.
 
-![Screenshot](images/screenshot/screenshot-v0.1.0.png)
+![Screenshot](images/screenshots/Tabs2Markdown-v0.1.0.png)
 
 Features
 --------
